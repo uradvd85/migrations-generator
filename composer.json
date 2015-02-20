@@ -15,12 +15,7 @@
 		"way/generators": "~3.0",
 		"doctrine/dbal": "~2.4"
 	},
-	"repositories": [
-		{
-			"type": "git",
-			"url": "git@github.com:jamisonvalenta/Laravel-4-Generators.git"
-		}
-	],
+
 	"autoload": {
 		"psr-0": {
 			"Xethron\\MigrationsGenerator": "src/"
